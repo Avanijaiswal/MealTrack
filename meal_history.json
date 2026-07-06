@@ -1,0 +1,149 @@
+[
+    {
+        "date": "2026-07-06",
+        "time": "10:36:14",
+        "dish_name": "Sandwiches",
+        "calories": 372.9,
+        "macros": {
+            "protein_g": 18.0,
+            "carbs_g": 31.3,
+            "fat_g": 19.4,
+            "sodium_mg": 815.0
+        },
+        "flags": [
+            "⚠️ High sodium (815 mg)",
+            "ℹ️ Low fiber (2 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "10:57:34",
+        "dish_name": "Club Sandwich",
+        "calories": 1513.0,
+        "macros": {
+            "protein_g": 63.5,
+            "carbs_g": 151.0,
+            "fat_g": 70.2,
+            "sodium_mg": 3150.3
+        },
+        "flags": [
+            "High calorie meal (1513 kcal)",
+            "High sodium (3150 mg)",
+            "Good protein source (64 g)",
+            "Good source of fiber (7 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "10:58:20",
+        "dish_name": "Club Sandwich",
+        "calories": 965.4,
+        "macros": {
+            "protein_g": 48.5,
+            "carbs_g": 35.7,
+            "fat_g": 68.7,
+            "sodium_mg": 2087.7
+        },
+        "flags": [
+            "High calorie meal (965 kcal)",
+            "High sodium (2088 mg)",
+            "Good protein source (48 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "11:16:01",
+        "dish_name": "Club Sandwich",
+        "calories": 2051.9,
+        "macros": {
+            "protein_g": 103.9,
+            "carbs_g": 72.3,
+            "fat_g": 147.4,
+            "sodium_mg": 4371.2
+        },
+        "flags": [
+            "High calorie meal (2052 kcal)",
+            "High sodium (4371 mg)",
+            "Good protein source (104 g)",
+            "Good source of fiber (7 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "11:18:24",
+        "dish_name": "Biscuits",
+        "calories": 141.2,
+        "macros": {
+            "protein_g": 2.8,
+            "carbs_g": 17.8,
+            "fat_g": 6.5,
+            "sodium_mg": 232.0
+        },
+        "flags": [
+            "Low protein contribution (3 g)",
+            "Low fiber (1 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "11:19:05",
+        "dish_name": "Rice With Vegetables",
+        "calories": 565.5,
+        "macros": {
+            "protein_g": 21.7,
+            "carbs_g": 38.1,
+            "fat_g": 36.7,
+            "sodium_mg": 884.1
+        },
+        "flags": [
+            "High sodium (884 mg)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "11:25:50",
+        "dish_name": "Samosa",
+        "calories": 376.5,
+        "macros": {
+            "protein_g": 7.6,
+            "carbs_g": 63.6,
+            "fat_g": 10.9,
+            "sodium_mg": 561.8
+        },
+        "flags": [
+            "Low protein contribution (8 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "11:39:59",
+        "dish_name": "Samosa",
+        "calories": 376.5,
+        "macros": {
+            "protein_g": 7.6,
+            "carbs_g": 63.6,
+            "fat_g": 10.9,
+            "sodium_mg": 561.8
+        },
+        "flags": [
+            "Low protein contribution (8 g)"
+        ]
+    },
+    {
+        "date": "2026-07-06",
+        "time": "13:09:12",
+        "dish_name": "Club Sandwich",
+        "calories": 965.4,
+        "macros": {
+            "protein_g": 48.5,
+            "carbs_g": 35.7,
+            "fat_g": 68.7,
+            "sodium_mg": 2087.7
+        },
+        "flags": [
+            "High calorie meal (965 kcal)",
+            "High sodium (2088 mg)",
+            "Good protein source (48 g)"
+        ]
+    }
+]
