@@ -1,0 +1,29 @@
+MAIN.py
+FUNCTIONS 
+check_health_flags:
+compares all the values that have came from the API with what teh Threshold I have crwated.
+
+print_report:
+prints 
+
+nutrition_data :
+is the data that is being fetched by the API.
+
+
+log_meal_json :
+takes the  final processed data and saves it permanently to meal_history.jsonl
+
+cv
+os
+sys
+datetime
+requests
+load_dotenv from dotenv
+
+
+loads the Api token
+image getting 
+then sending to the api
+food recognition will be done
+Nutrition will be checked and a dictionary will be made accoding to the data that the API conatins abouy the particular dish
+will print the report generated
